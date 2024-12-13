@@ -5,8 +5,6 @@
 
 Lending a loan to a person could be crucial to banks for them to __operate__ and __maintain__ demand. Taking a look at different banks, we see that the amount of loan that they give to different customers varies when they consider a few factors that are important for them to decide to give a loan or not respectively. In addition to this, the total amount of loan that they lend to a person also depends on these factors. However, there is sometimes a possibility that the __loan__ might be given to a person who might not be able to return it to the bank or __vice-versa__. It becomes important for banks to understand the behavior of the __customer__ before they can take action to lend money to people for different purposes. 
 
-![](Payday-Loan.gif)
-
 ## Machine Learning Analysis 
 
 __Companies__ could use machine learning to understand some of the important features and insights and also, get predictions so that they could determine whether they have to give a loan to a person or not. It would be really good if based on a given set of features, one is able to predict whether a customer would __default on a loan or not__. This could be addressed with machine learning.
